@@ -1,0 +1,28 @@
+_repo: A-Tenderfoot-BrideTales-from-an-Old-Ranch_42507
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42507-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Richards, Clarice E.
+    gutenberg_agent_id: '41720'
+    url: http://www.gutenberg.org/2009/agents/41720
+description: ''
+gutenberg_issued: '2013-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42507'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ranch life -- Colorado -- Elbert County -- History -- 20th century'
+- !lcsh 'Pioneers -- Colorado -- Elbert County -- Biography'
+- !lcsh 'Richards, Clarice E.'
+- !lcsh 'Women pioneers -- Colorado -- Elbert County -- Biography'
+- !lcsh 'Elbert County (Colo.) -- Social life and customs'
+- !lcc 'F721'
+title: 'A Tenderfoot Bride: Tales from an Old Ranch'
+url: http://www.gutenberg.org/ebooks/42507
